@@ -9,7 +9,7 @@ Cd Frontend
   $ npm start
   
 Cd Backend
-  $$ nodemon app.js
+  $ nodemon app.js
 
 ![Screenshot 2024-10-04 224532](https://github.com/user-attachments/assets/f3c298c2-63aa-4355-af31-a5f1d0caa82c)
 
